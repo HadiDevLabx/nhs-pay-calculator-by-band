@@ -15,13 +15,15 @@ That combination means NHS take-home is lower than a private-sector salary of th
 
 High-cost area supplements apply in and around London and change the figures again.
 
+One page per band: [Band 2](https://truetakehome.co.uk/nhs-pay/band-2/) · [Band 3](https://truetakehome.co.uk/nhs-pay/band-3/) · [Band 4](https://truetakehome.co.uk/nhs-pay/band-4/) · [Band 5](https://truetakehome.co.uk/nhs-pay/band-5/) · [Band 6](https://truetakehome.co.uk/nhs-pay/band-6/) · [Band 7](https://truetakehome.co.uk/nhs-pay/band-7/) · [Band 8a](https://truetakehome.co.uk/nhs-pay/band-8a/)
+
 ## What this does not cover
 
 It does not model unsocial hours payments under Section 2, on-call, or overtime, which for many shift-working staff are a large share of actual pay.
 
 ## Use the calculator
 
-**[NHS Pay Calculator by Band →](https://truetakehome.co.uk/nhs-pay/)**
+**[NHS Pay Calculator by Band →](https://truetakehome.co.uk/nhs-pay/band-5/)**
 
 Free, no sign-up, runs in your browser. Your figures are never sent anywhere.
 
